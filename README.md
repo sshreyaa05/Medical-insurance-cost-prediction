@@ -1,5 +1,9 @@
 #  Medical insurance cost prediction using linear-regression
+## PROBLEM STATEMENT:
 This dataset contains the information about the individual's demographic, lifestyle-related, insurances-related attributes along with their corresponding medical insurance charges. This project helps us to build the predictive model that can estimate the medical insurance charges for new individuals based on their characteristics.
+## WHAT IS THE PURPOSE BEHIND IT?
+## THE PREDICTION WILL PROVIDE US THE VALUABLE INFORMATION TO INSURANCE COMPANIES, INDIVIDUALS AND RESEARCHERS, THEREBY AIDS TO RISK ASSESSMENT ASSOCIATED WITH INSURING DIFFERENT INDIVIDUALS.
+## NOW, LETS PROCEED SOLVING THE PROBLEM LEVERAGING LINEAR REGRESSION MODEL, SO LETS FIRST COLLECT THE INSIGHTS FROM THE DATASET:
 ## 1. Checking missing values
 ![image](https://github.com/sshreyaa05/linear-regression/assets/132264752/38ea1336-8fa0-4da9-b7f7-1406fa35f345)
 ## There are no missing values in this dataset.
@@ -21,6 +25,7 @@ This dataset contains the information about the individual's demographic, lifest
 ## 6. checking the residual distribution of the model prediction.
 ![image](https://github.com/sshreyaa05/linear-regression/assets/132264752/276b1046-c060-47df-82c4-fe7e0413e019)
 ## As we can see that the residuals are not normally distributed.
-## Lastly, after proceeding with the model training and evaluation, linear model comes up with the r2 score of 0.76.
+## Lastly, We have solved the problem using linear regression model successfullty, with model training and  model evaluation,
+## linear regression model comes up with the r2 score of 0.76.
 
 
